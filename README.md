@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alejandro Cuahutle 👋
 ### Data Analyst Jr. 
 
-Apasionado por transformar datos complejos en soluciones estratégicas de negocio. Con formación en Ingeniería Mecatronica y experiencia previa en control de calidad, aporto un enfoque metódico, analítico y orientado a la mejora continua.
+Apasionado por transformar datos complejos en soluciones estratégicas de negocio. Con formación en Ingeniería Mecatrónica y experiencia previa en procesos operativos y control de calidad, aporto un enfoque metódico, analítico y orientado a la mejora continua.
 
 ---
 
